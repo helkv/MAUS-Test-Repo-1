@@ -7,4 +7,4 @@ This software belongs to the research fields:
 
 Its intended use and its contribution to research:
 
-use
+use for testing purposes
