@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-12T11:21:04.535368+02:00" required="2.1.0" version="2.5.1">
+	<title>MAUS Testing 1</title>
+	<description>Project created for Testing the MAUS Features
+-&gt; "Software Management Plan for Researchers"</description>
+	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
+	<tasks>
+		<task dc:uri="https://rdmo.mpdl.mpg.de/terms/tasks/determine_smp_versioning_tool"/>
+	</tasks>
+	<views>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-citation"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-codemeta"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-readme"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/terms/views/smp-report"/>
+		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
+	</views>
+	<values>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/215"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-12T11:00:28.538520+02:00</created>
+			<updated>2026-08-12T11:00:28.538525+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>1</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/research_fields/182"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-12T11:00:38.320567+02:00</created>
+			<updated>2026-08-12T11:00:38.320573+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_question/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>use</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-12T11:00:07.861388+02:00</created>
+			<updated>2026-08-12T11:00:07.861393+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/title"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>title of the software project</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-12T10:59:28.041349+02:00</created>
+			<updated>2026-08-12T10:59:30.723591+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/application-class"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text/>
+			<option dc:uri="https://rdmorganiser.github.io/terms/options/application-class/3"/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-12T10:59:41.213780+02:00</created>
+			<updated>2026-08-12T10:59:41.213786+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/smp/buy-or-make"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>new software</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-12T10:59:59.607098+02:00</created>
+			<updated>2026-08-12T11:00:01.854619+02:00</updated>
+		</value>
+	</values>
+	<created>2026-08-12T10:50:16.303072+02:00</created>
+	<updated>2026-08-12T11:00:28.804059+02:00</updated>
+</project>
