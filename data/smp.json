@@ -23,5 +23,10 @@
     "question": "What function does the new software have that previous software does not cover? What related software exists and why is it not suitable?",
     "set": "",
     "values": "new software"
+  },
+  {
+    "question": "Is there existing (financial/personnel) resources or will there be specific funding for the software development?",
+    "set": "",
+    "values": "Funding with special characters !\"\u00a7$%&/()=?\u00c4\u00dc\u00d6"
   }
 ]
