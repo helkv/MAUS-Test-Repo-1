@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-12T12:08:13.473811+02:00" required="2.1.0" version="2.5.1">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-13T09:53:00.879733+02:00" required="2.1.0" version="2.5.1">
 	<title>MAUS Testing 1</title>
 	<description>Project created for Testing the MAUS Features
 -&gt; "Software Management Plan for Researchers"</description>
@@ -16,49 +16,34 @@
 	</views>
 	<values>
 		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvcomma"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>3a0893e5e3f86af6bdafcaff3788609a1d418c63</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2026-08-12T12:02:17.176543+02:00</created>
-			<updated>2026-08-12T12:02:17.176549+02:00</updated>
-		</value>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/csvsemicolon"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>9abd186c15257b6393126c84f667043cf6d07f28</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2026-08-12T12:02:17.623420+02:00</created>
-			<updated>2026-08-12T12:02:17.623425+02:00</updated>
-		</value>
-		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/json"/>
 			<set_prefix/>
 			<set_index>0</set_index>
 			<set_collection/>
 			<collection_index>0</collection_index>
-			<text>e2143cc901b29c21c7267daafbfdba00cc3c9e64</text>
+			<text>862f231b0a8ce5e86a3050e53ec53247d80ec894</text>
 			<option/>
 			<file/>
 			<value_type>text</value_type>
 			<unit/>
 			<external_id/>
-			<created>2026-08-12T12:02:17.911120+02:00</created>
-			<updated>2026-08-12T12:02:17.911125+02:00</updated>
+			<created>2026-08-13T09:52:54.699501+02:00</created>
+			<updated>2026-08-13T09:52:54.699506+02:00</updated>
+		</value>
+		<value>
+			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/funder"/>
+			<set_prefix/>
+			<set_index>0</set_index>
+			<set_collection>False</set_collection>
+			<collection_index>0</collection_index>
+			<text>Funding with special characters !"§$%&amp;/()=?ÄÜÖ</text>
+			<option/>
+			<file/>
+			<value_type>text</value_type>
+			<unit/>
+			<external_id/>
+			<created>2026-08-13T09:51:06.412313+02:00</created>
+			<updated>2026-08-13T09:52:01.397769+02:00</updated>
 		</value>
 		<value>
 			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/research_field"/>
@@ -167,5 +152,5 @@
 		</value>
 	</values>
 	<created>2026-08-12T10:50:16.303072+02:00</created>
-	<updated>2026-08-12T11:00:28.804059+02:00</updated>
+	<updated>2026-08-13T09:51:06.705240+02:00</updated>
 </project>
