@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-13T09:53:00.879733+02:00" required="2.1.0" version="2.5.1">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2026-08-13T10:00:27.271279+02:00" required="2.1.0" version="2.5.1">
 	<title>MAUS Testing 1</title>
 	<description>Project created for Testing the MAUS Features
--&gt; "Software Management Plan for Researchers"</description>
+-&gt; "Software Management Plan for Researchers"
+!"§$%&amp;/()=?ǛÖ</description>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
 	<tasks>
 		<task dc:uri="https://rdmo.mpdl.mpg.de/terms/tasks/determine_smp_versioning_tool"/>
@@ -15,21 +16,6 @@
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/json"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>862f231b0a8ce5e86a3050e53ec53247d80ec894</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2026-08-13T09:52:54.699501+02:00</created>
-			<updated>2026-08-13T09:52:54.699506+02:00</updated>
-		</value>
 		<value>
 			<attribute dc:uri="https://rdmorganiser.github.io/terms/domain/project/funder"/>
 			<set_prefix/>
@@ -152,5 +138,5 @@
 		</value>
 	</values>
 	<created>2026-08-12T10:50:16.303072+02:00</created>
-	<updated>2026-08-13T09:51:06.705240+02:00</updated>
+	<updated>2026-08-13T09:59:38.096355+02:00</updated>
 </project>
